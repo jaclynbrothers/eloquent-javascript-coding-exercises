@@ -1,5 +1,5 @@
-# Eloquent JavaScript
-This is a collection of the different exercises from Chapter 1-4 of Eloquent JavaScript. The following topics were covered:
+# Eloquent JavaScript Coding Exercises
+This is a collection of the different exercises from Chapter 1-4 of Eloquent JavaScript, 3rd Edition. The following topics were covered:
 1. Values, Types, and Operators
 2. Program Structure
 3. Functions
